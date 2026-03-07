@@ -4,7 +4,6 @@
 }
 
 .rebajado {
-    color: #e63946;
-    font-weight: bold;
-    background-color: #f1faee;
+    color: super-mega-azul-galactico; /* ERROR: Color inexistente */
+    font-weight: bold /* ERROR: Falta el punto y coma aquí */
 }
