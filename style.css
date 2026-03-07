@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+=======
+#titulo-principal {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+
+.rebajado {
+    color: #e63946; 
+    font-weight: bold; 
+    background-color: #f1faee;
+}
+>>>>>>> 6cb8b48 (feat: implementar clase rebajado para titulo)
