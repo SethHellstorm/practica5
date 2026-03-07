@@ -2,3 +2,9 @@
     font-family: 'Arial', sans-serif;
     text-align: center;
 }
+
+.rebajado {
+    color: #e63946;
+    font-weight: bold;
+    background-color: #f1faee;
+}
